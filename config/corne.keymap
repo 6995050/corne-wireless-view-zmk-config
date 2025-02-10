@@ -75,10 +75,10 @@
 
             display-name = "Excuse";
             bindings = <
-&none  &kp Q  &kp W  &kp E  &kp R                  &kp T                             &kp Y                   &kp U                   &kp I  &kp O      &kp P       &none
-&none  &kp A  &kp S  &kp D  &balance layer 1 F     &kp G                             &kp H                   &balance layer 1 J      &kp K  &kp L      &kp SEMI    &none
-&none  &kp Z  &kp X  &kp C  &kp V                  &kp BACKSPACE                     &kp B                   &kp N                   &kp M  &kp COMMA  &kp PERIOD  &none
-                     &none  &pmsv_hold LSHIFT TAB  &pmsv_hold LEFT_COMMAND ESCAPE    &balance layer 2 SPACE  &balance layer 3 ENTER  &none
+&none  &kp Q  &kp W  &kp E  &kp R                  &kp T                             &kp Y             &kp U             &kp I  &kp O      &kp P       &none
+&none  &kp A  &kp S  &kp D  &balance 1 F           &kp G                             &kp H             &balance 1 J      &kp K  &kp L      &kp SEMI    &none
+&none  &kp Z  &kp X  &kp C  &kp V                  &kp BACKSPACE                     &kp B             &kp N             &kp M  &kp COMMA  &kp PERIOD  &none
+                     &none  &pmsv_hold LSHIFT TAB  &pmsv_hold LEFT_COMMAND ESCAPE    &balance 2 SPACE  &balance 3 ENTER  &none
             >;
         };
 
